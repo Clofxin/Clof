@@ -1,10 +1,10 @@
-### Hey there, I'm Mustafa Gökkaya
+### Hey there, Clofxin
 
 <br>
 
 **Talking about Personal Stuffs:**
 
-> 🌱 Hello, <br>
+> 🌱 I’m currently learning Javascript, <br>
 > 📫 Please via [Mail](https://clofxin.com.tr/contact) to reach me. <br>
 > 🌠 <img src="https://komarev.com/ghpvc/?username=This-null&label=Visitors&color=brightgreen&style=plastic" alt="This-null"/></td>
 
